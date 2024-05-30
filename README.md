@@ -1,6 +1,6 @@
 # Movie checker
 
-This is a pet-project initialized to learn some basic stuff about React. I was following a tutorial from FreeCodeCamp when doing this project. Basically, the code isn't mine, but it gave me the basic knowledge of React.js library and the way it operates.
+This is a pet-project initialized to learn some basic stuff about React. 
 
 ## The project is now live: https://react-moviedb-by-nojokescoder.netlify.app
 
